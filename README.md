@@ -76,4 +76,4 @@ cargo test
 
 ## License
 
-ISC
+MIT
